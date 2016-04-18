@@ -1,0 +1,25 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-hello.js",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "moment": "^2.13.0",
+    "through2-map": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opportunato/learning-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opportunato/learning-node/issues"
+  },
+  "homepage": "https://github.com/opportunato/learning-node#readme"
+}
